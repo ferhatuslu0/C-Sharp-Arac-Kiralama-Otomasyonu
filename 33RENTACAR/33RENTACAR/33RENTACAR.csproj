@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6D33805F-647F-4C73-875C-4D7BEEFB61F7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_33RENTACAR</RootNamespace>
+    <AssemblyName>33RENTACAR</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm_Anamenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Anamenu.Designer.cs">
+      <DependentUpon>frm_Anamenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_AracKirala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_AracKirala.Designer.cs">
+      <DependentUpon>frm_AracKirala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Aracİslemler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Aracİslemler.Designer.cs">
+      <DependentUpon>frm_Aracİslemler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Kullanici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Kullanici.Designer.cs">
+      <DependentUpon>frm_Kullanici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_KullaniciGirisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_KullaniciGirisi.Designer.cs">
+      <DependentUpon>frm_KullaniciGirisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Musteri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Musteri.Designer.cs">
+      <DependentUpon>frm_Musteri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Yardim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Yardim.Designer.cs">
+      <DependentUpon>frm_Yardim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="frm_Rapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Rapor.Designer.cs">
+      <DependentUpon>frm_Rapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vtDataSet.cs">
+      <DependentUpon>vtDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="vtDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>vtDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frm_Anamenu.resx">
+      <DependentUpon>frm_Anamenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_AracKirala.resx">
+      <DependentUpon>frm_AracKirala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Aracİslemler.resx">
+      <DependentUpon>frm_Aracİslemler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Kullanici.resx">
+      <DependentUpon>frm_Kullanici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_KullaniciGirisi.resx">
+      <DependentUpon>frm_KullaniciGirisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Musteri.resx">
+      <DependentUpon>frm_Musteri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Yardim.resx">
+      <DependentUpon>frm_Yardim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="frm_Rapor.resx">
+      <DependentUpon>frm_Rapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="vtDataSet.xsc">
+      <DependentUpon>vtDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\yardim1.png" />
+    <None Include="Resources\yardim2.png" />
+    <None Include="Resources\baslik.png" />
+    <Content Include="vtDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>vtDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <None Include="vtDataSet.xss">
+      <DependentUpon>vtDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arkaplan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\power.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anaSayfa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\musteri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aracc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aracKirala.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\raporla.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kullanicidegistir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yardim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kapat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arkaplan2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mercek.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kaydet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guncelle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temizle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kapat1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anaSayfa1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="vt.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

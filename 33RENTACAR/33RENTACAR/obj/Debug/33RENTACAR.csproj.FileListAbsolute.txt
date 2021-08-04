@@ -1,0 +1,103 @@
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\bin\Debug\33RENTACAR.exe.config
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\bin\Debug\33RENTACAR.exe
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\bin\Debug\33RENTACAR.pdb
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.csprojResolveAssemblyReference.cache
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Anamenu.resources
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_KullaniciGirisi.resources
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Musteri.resources
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.Properties.Resources.resources
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.csproj.GenerateResource.Cache
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.exe
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.pdb
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_AracKirala.resources
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Aracİslemler.resources
+G:\ferhat\33RENTACAR\33RENTACAR\bin\Debug\33RENTACAR.exe.config
+G:\ferhat\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.exe
+G:\ferhat\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.pdb
+G:\ferhat\33RENTACAR\33RENTACAR\bin\Debug\33RENTACAR.exe
+G:\ferhat\33RENTACAR\33RENTACAR\bin\Debug\33RENTACAR.pdb
+G:\ferhat\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.csprojResolveAssemblyReference.cache
+G:\ferhat\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Anamenu.resources
+G:\ferhat\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_AracKirala.resources
+G:\ferhat\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Aracİslemler.resources
+G:\ferhat\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_KullaniciGirisi.resources
+G:\ferhat\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Musteri.resources
+G:\ferhat\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.Properties.Resources.resources
+G:\ferhat\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.csproj.GenerateResource.Cache
+C:\Users\Lab-01\Desktop\33RENTACAR\33RENTACAR\bin\Debug\33RENTACAR.exe.config
+C:\Users\Lab-01\Desktop\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.exe
+C:\Users\Lab-01\Desktop\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.pdb
+C:\Users\Lab-01\Desktop\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.csprojResolveAssemblyReference.cache
+C:\Users\Lab-01\Desktop\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Anamenu.resources
+C:\Users\Lab-01\Desktop\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_AracKirala.resources
+C:\Users\Lab-01\Desktop\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Aracİslemler.resources
+C:\Users\Lab-01\Desktop\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_KullaniciGirisi.resources
+C:\Users\Lab-01\Desktop\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Musteri.resources
+C:\Users\Lab-01\Desktop\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.Properties.Resources.resources
+C:\Users\Lab-01\Desktop\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.csproj.GenerateResource.Cache
+C:\Users\Lab-01\Desktop\33RENTACAR\33RENTACAR\bin\Debug\33RENTACAR.exe
+C:\Users\Lab-01\Desktop\33RENTACAR\33RENTACAR\bin\Debug\33RENTACAR.pdb
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Rapor.resources
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\bin\Debug\vt.accdb
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\obj\Debug\RdlCompile.cache
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\obj\Debug\RdlCompile.compiled
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Kullanici.resources
+C:\Users\wın8.1\Desktop\C# Projem\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Yardim.resources
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\bin\Debug\33RENTACAR.exe.config
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.exe
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.pdb
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\bin\Debug\vt.accdb
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\bin\Debug\33RENTACAR.exe
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\bin\Debug\33RENTACAR.pdb
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.csprojResolveAssemblyReference.cache
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Anamenu.resources
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_AracKirala.resources
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Aracİslemler.resources
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Kullanici.resources
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_KullaniciGirisi.resources
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Musteri.resources
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Yardim.resources
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.Properties.Resources.resources
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Rapor.resources
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.csproj.GenerateResource.Cache
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\RdlCompile.cache
+D:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\RdlCompile.compiled
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\bin\Debug\33RENTACAR.exe.config
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.exe
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.pdb
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\bin\Debug\vt.accdb
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\bin\Debug\33RENTACAR.exe
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\bin\Debug\33RENTACAR.pdb
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.csprojResolveAssemblyReference.cache
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Anamenu.resources
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_AracKirala.resources
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Aracİslemler.resources
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Kullanici.resources
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_KullaniciGirisi.resources
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Musteri.resources
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Yardim.resources
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.Properties.Resources.resources
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Rapor.resources
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.csproj.GenerateResource.Cache
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\RdlCompile.cache
+H:\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\RdlCompile.compiled
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\bin\Debug\vt.accdb
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\bin\Debug\33RENTACAR.exe.config
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\bin\Debug\33RENTACAR.exe
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\bin\Debug\33RENTACAR.pdb
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.csprojResolveAssemblyReference.cache
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Anamenu.resources
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_AracKirala.resources
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Aracİslemler.resources
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Kullanici.resources
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_KullaniciGirisi.resources
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Musteri.resources
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Yardim.resources
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.Properties.Resources.resources
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\_33RENTACAR.frm_Rapor.resources
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.csproj.GenerateResource.cache
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.exe
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\33RENTACAR.pdb
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\RdlCompile.cache
+D:\YEDEĞİM\2.sınıf ders notları\2. sınıf 2. donem\gorsel programa 3\33RENTACAR\33RENTACAR\obj\Debug\RdlCompile.compiled
